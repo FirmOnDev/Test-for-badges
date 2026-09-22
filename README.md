@@ -1,4 +1,2 @@
 # Test-for-badges
-Test!
-AD
-AD
+tEST
